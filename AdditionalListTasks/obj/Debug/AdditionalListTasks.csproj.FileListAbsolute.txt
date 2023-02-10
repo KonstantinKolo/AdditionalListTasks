@@ -1,0 +1,7 @@
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\bin\Debug\AdditionalListTasks.exe.config
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\bin\Debug\AdditionalListTasks.exe
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\bin\Debug\AdditionalListTasks.pdb
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\obj\Debug\AdditionalListTasks.csproj.AssemblyReference.cache
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\obj\Debug\AdditionalListTasks.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\obj\Debug\AdditionalListTasks.exe
+D:\DomashnaRabota\AdditionalListTasks\AdditionalListTasks\obj\Debug\AdditionalListTasks.pdb

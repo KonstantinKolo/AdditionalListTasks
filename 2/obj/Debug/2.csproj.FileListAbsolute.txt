@@ -1,0 +1,6 @@
+D:\DomashnaRabota\AdditionalListTasks\2\bin\Debug\2.exe.config
+D:\DomashnaRabota\AdditionalListTasks\2\bin\Debug\2.exe
+D:\DomashnaRabota\AdditionalListTasks\2\bin\Debug\2.pdb
+D:\DomashnaRabota\AdditionalListTasks\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\AdditionalListTasks\2\obj\Debug\2.exe
+D:\DomashnaRabota\AdditionalListTasks\2\obj\Debug\2.pdb

@@ -1,0 +1,7 @@
+D:\DomashnaRabota\AdditionalListTasks\5\bin\Debug\5.exe.config
+D:\DomashnaRabota\AdditionalListTasks\5\bin\Debug\5.exe
+D:\DomashnaRabota\AdditionalListTasks\5\bin\Debug\5.pdb
+D:\DomashnaRabota\AdditionalListTasks\5\obj\Debug\5.csproj.AssemblyReference.cache
+D:\DomashnaRabota\AdditionalListTasks\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\AdditionalListTasks\5\obj\Debug\5.exe
+D:\DomashnaRabota\AdditionalListTasks\5\obj\Debug\5.pdb
